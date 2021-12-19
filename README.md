@@ -1,4 +1,4 @@
-# julia_learning
+# Learning Julia
 Just some simple notebooks on learning Julia with [Julia Academy](https://juliaacademy.com/)   
 
 Courses:  
