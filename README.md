@@ -3,4 +3,5 @@ Just some simple notebooks on learning Julia with [Julia Academy](https://juliaa
 
 Courses:  
 * [Introduction to Julia](https://juliaacademy.com/p/intro-to-julia)
-* [Julia for Data Science](https://juliaacademy.com/p/julia-for-data-science)
+* [Julia for Data Science](https://juliaacademy.com/p/julia-for-data-science)  
+* [Julia Exercises](https://exercism.org/tracks/julia)  
